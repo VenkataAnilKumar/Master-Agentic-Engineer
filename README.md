@@ -97,7 +97,7 @@ master-agentic-engineer/
 ├── README.md                          # This file
 ├── roadmap.md                         # Detailed 14-week curriculum
 ├── engineering-standards.md           # Code quality & testing standards
-├── agent-lib/                         # Reusable agent components
+├── agent_lib/                         # Reusable agent components
 ├── modules/                           # Weekly learning modules
 ├── production-configs/                # Deployment configurations
 ├── system-designs/                    # Architecture patterns

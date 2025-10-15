@@ -83,9 +83,9 @@
 - Each requires: README, notebook, exercises, production configs
 
 ### 4. Supporting Files Created
-- ✅ **agent-lib/README.md** - Complete library documentation
-- ✅ **agent-lib/__init__.py** - Package initialization
-- ✅ **agent-lib/core/__init__.py** - Core module exports
+- ✅ **agent_lib/README.md** - Complete library documentation
+- ✅ **agent_lib/__init__.py** - Package initialization
+- ✅ **agent_lib/core/__init__.py** - Core module exports
 
 ## 📈 Progress Statistics
 

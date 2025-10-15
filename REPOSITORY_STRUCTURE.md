@@ -17,7 +17,7 @@ master-agentic-engineer/
 ├── CONTRIBUTING.md
 ├── CHANGELOG.md
 │
-├── agent-lib/                                     ✅ Created
+├── agent_lib/                                     ✅ Created
 │   ├── README.md                                  ✅ Created
 │   ├── __init__.py
 │   ├── core/                                      ✅ Created
@@ -200,7 +200,7 @@ master-agentic-engineer/
    - ✅ engineering-standards.md - Code quality and best practices
    - ✅ requirements.txt - All dependencies
 
-2. **Agent Library (agent-lib/)**
+2. **Agent Library (agent_lib/)**
    - ✅ core/ - Complete base agent, tool, executor, and config modules
    - ✅ memory/ - Short-term memory implementation with working memory
    - ✅ Directory structure for protocols, security, and observability

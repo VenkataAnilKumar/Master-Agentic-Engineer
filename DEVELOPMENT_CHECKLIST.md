@@ -40,7 +40,7 @@ AC:
 
 ---
 
-## 🧰 Agent Library (agent-lib/) — Production-Ready Components
+## 🧰 Agent Library (agent_lib/) — Production-Ready Components
 
 ### Core (done — review and polish)
 - [ ] core/agent.py reviewed with examples and doctests
@@ -191,7 +191,7 @@ AC:
 ---
 
 ## 🧪 Testing & QA
-- [ ] Unit tests for agent-lib (>=85% core coverage)
+- [ ] Unit tests for agent_lib (>=85% core coverage)
 - [ ] Integration tests (multi-agent comms, tools, memory backends)
 - [ ] Performance tests (latency p95, throughput, memory usage)
 - [ ] Chaos tests (timeouts, tool failures, partial outages)
@@ -289,7 +289,7 @@ AC:
 
 For each project:
 - [ ] README.md (usage, architecture)
-- [ ] src/ minimal MVP using agent-lib
+- [ ] src/ minimal MVP using agent_lib
 - [ ] tests/ unit + integration
 - [ ] config/ env-driven settings
 - [ ] Dockerfile + compose
@@ -311,7 +311,7 @@ AC:
 ---
 
 ## 📝 Administrative & Governance
-- [ ] CODEOWNERS for critical paths (agent-lib, modules)
+- [ ] CODEOWNERS for critical paths (agent_lib, modules)
 - [ ] Issue templates (bug, feature, docs)
 - [ ] PR template (with test + docs checklist)
 - [ ] Security policy (SECURITY.md)
